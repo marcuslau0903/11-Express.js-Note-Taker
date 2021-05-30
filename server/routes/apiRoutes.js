@@ -9,7 +9,7 @@ apiRouter.get("/notes", getData)
 
 apiRouter.post("/notes", postData)
 
-apiRouter.delete("/something", deleteData)
+apiRouter.delete("/notes/:id", deleteData)
 
 
 module.exports = apiRouter 

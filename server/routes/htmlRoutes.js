@@ -6,6 +6,6 @@ const htmlRouter = Router()
 // configure routes
 
 htmlRouter.get("/notes", renderNotesHtml)
-htmlRouter.get("/", renderHomeHtml)
+htmlRouter.get("/*", renderHomeHtml)
 
 module.exports = htmlRouter 
