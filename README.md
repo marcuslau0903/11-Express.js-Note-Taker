@@ -20,7 +20,7 @@ The delete method allows user to delete notes by clicking on the delete button.
 [Click here to deployed Heroku Link] (https://shrouded-badlands-27921.herokuapp.com)
 
 ## Link t Github repository 
-[Click here](https://github.com/marcuslau0903/10-Object-Oriented-Programming-Team-Profile-Generator)
+[Click here]:(https://github.com/marcuslau0903/10-Object-Oriented-Programming-Team-Profile-Generator)
 
 ## Screenshot of the Note Taker Application
 
