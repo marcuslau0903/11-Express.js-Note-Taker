@@ -1,7 +1,7 @@
 # 11 Express.js: Note Taker
 
 ## Description
-This weeks assignment is to modify given starter code(front-end HTML,CSS,JS), by setting up a back-end express server and configure HTML,api routes to create a **Note Taker** application that allows the user to write and save notes.  The final product is deployed to Heroku.  The express router features functions that handles **Get**, **POST** and ** DELETE** requests:
+This weeks assignment is to modify given starter code(front-end HTML,CSS,JS), by setting up a back-end express server and configure HTML,api routes to create a **Note Taker** application that allows the user to write and save notes.  The final product is deployed to Heroku.  The express router features functions that handles **Get**, **POST** and  **DELETE** requests:
 
 #### Get Request
 The server responds incoming requests from the client, renders notes and the landing HTML page.
