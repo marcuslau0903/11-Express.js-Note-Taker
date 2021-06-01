@@ -1,6 +1,4 @@
 const express = require("express")
-const path = require("path")
-const fs = require("fs")
 const cors = require("cors")
 const onSuccessfulOpen = () => console.log(`Server is listening to: http://localhost:${PORT}`)
 
