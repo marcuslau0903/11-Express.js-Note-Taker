@@ -1,11 +1,6 @@
-const fs = require("fs")
-const path = require("path")
-const { v4: uuidv4 } = require('uuid')
+const { v4: uuidv4 } = require('uuid') 
+const {writeToFile, readFromFile} = require ("../utils/util")
 
-const writeToFile = (data) => fs.writeFileSync(path.resolve(__dirname,'../db/db.json'),JSON.stringify(data))
-    
-const readFromFile = () => fs.readFileSync(path.resolve(__dirname,'../db/db.json'),"utf8")
-    
 
 const getData = (req,res) => {
     const notesArray = JSON.parse(readFromFile())
