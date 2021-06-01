@@ -17,10 +17,10 @@ The delete method allows user to delete notes by clicking on the delete button.
 - Input `npm i` to install packages (cors,express,path,uuid) for the program. 
 - Input `npm start` to run the application on local server. 
 - Click on the deployed Heroku link to run the application live.
-[Click here to deployed Heroku Link] (https://shrouded-badlands-27921.herokuapp.com)
+[Click here to deployed Heroku Link](https://shrouded-badlands-27921.herokuapp.com)
 
-## Link t Github repository 
-[Click here]:(https://github.com/marcuslau0903/10-Object-Oriented-Programming-Team-Profile-Generator)
+## Link to Github repository 
+[Click here](https://github.com/marcuslau0903/10-Object-Oriented-Programming-Team-Profile-Generator)
 
 ## Screenshot of the Note Taker Application
 
